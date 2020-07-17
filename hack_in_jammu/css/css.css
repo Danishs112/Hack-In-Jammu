@@ -1,0 +1,42 @@
+.vl {
+border-left: 6px solid white;
+height: 120px;
+position: absolute;
+top: 0;
+ }
+
+
+
+#registration
+{
+   background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/demo-bg.jpg");
+}
+
+#demo{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+  font-size: 30px;
+  color:white;
+}
+
+.vll
+{
+border-left: 6px solid white;
+height: 340px;
+position: absolute;
+top: 0;
+font-size: 30px;
+text-align:justify;
+}	
+
+.vla
+{
+border-left: 6px solid white;
+height: 170px;
+position: absolute;
+top: 0;
+font-size: 30px;
+text-align:justify;
+}	
+
